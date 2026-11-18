@@ -6,6 +6,10 @@
 
 Newspaper front page: Kerch Bridge hit, Iran drones vs US radar Bahrain, Trump in Manila / Xi-Trump-Putin Shenzhen, Hormuz tanker mines, Japan scrambles jets, Houthis advance on Aden. entry.png 1024x1024, 117,722 B.
 
+## The image
+
+A single front page dated Tuesday 17 November 2026: the Kerch Bridge strike leads, with the Bahrain radar incident, the Manila visit and the Shenzhen summit, the Hormuz mining, Japan's scrambles and the Aden advance carried as the day's other stories.
+
 ## Run it
 
 ```sh
